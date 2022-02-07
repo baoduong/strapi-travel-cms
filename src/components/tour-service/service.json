@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_tour_service_services",
+  "info": {
+    "displayName": "Service",
+    "icon": "list-ul",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "ServiceName": {
+      "type": "string"
+    },
+    "AdultPrice": {
+      "type": "float",
+      "default": 0
+    },
+    "ChildrenPrice": {
+      "type": "float",
+      "default": 0
+    },
+    "Description": {
+      "type": "richtext"
+    }
+  }
+}
